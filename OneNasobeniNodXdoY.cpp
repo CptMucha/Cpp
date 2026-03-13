@@ -27,5 +27,3 @@ int main()
 
 return 0;
 }
-
-//Uživatel zadá číslo n, x,y  a program vypíše  násobení čísla n *  x do y
